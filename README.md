@@ -20,7 +20,7 @@ This repo is about scraping data from different business listing websites using 
 * Make sure python is installed and accessable through terminal/cmd by typing ```python --version``` or ```python3 --version```
 * (Optional step) Create virtual environment by following tutorial on [How to install virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
 * Clone the repo locally using ```git clone https://github.com/CraftyPythonDeveloper/business-listing-scraper```
-* ```cd business_listing_scraper```
+* ```cd business-listing-scraper```
 * Install requirements ```pip install -r requirements.txt```
 
 ## Usage
