@@ -82,5 +82,4 @@ class BrownbookSpider(scrapy.Spider):
         data["Tiktok"] = business_data.get("tiktok", "")
         data["Twitter"] = business_data.get("twitter", "")
         data["URL"] = response.meta.get("business_url", "")
-        data["Response URL"] = response.meta.get("response_url", "")
         yield data
